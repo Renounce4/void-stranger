@@ -5,6 +5,10 @@ Contains [[Locusts Idol]]
 # Notes
 Triple tapping a chest from the backside appears to make it "L U C K Y" and contain 3 [[Locusts Idol]]s ^9f2afe
 
+Reopening a chest after having already gotten the locust idol out of it but then dying will give me:
+> \[You acquired nothing\]
+
+#theory does this persist looping back around to previous levels, thus meaning there is the possibility to "open all chests" within a single playthrough by jumping around levels
 # Locations
 
 

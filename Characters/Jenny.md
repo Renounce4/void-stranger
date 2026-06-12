@@ -6,7 +6,7 @@ Talked to for the first time
 > Sorry, I mistook you for someone else.
 
 Talked to a second time
-> Have you seen my sister?
+> Have you seen my sister? #theory this could be [[Billy Eillish]]
 > She has short hair and her eyes are the same colour as yours.
 > She can be a bit shy, so she is probably hiding somewhere.
 

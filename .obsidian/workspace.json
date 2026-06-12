@@ -6,8 +6,95 @@
       {
         "id": "f02f426666d1d4fa",
         "type": "tabs",
-        "dimension": 50.6761565836299,
+        "dimension": 15.444839857651246,
         "children": [
+          {
+            "id": "3ae2dab0e87df8fd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Puzzles/6x6 Grid.canvas",
+                "viewState": {
+                  "x": -897.1167129069418,
+                  "y": 705.2206267647308,
+                  "zoom": -3.3306690738754696e-16
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "6x6 Grid"
+            }
+          },
+          {
+            "id": "81e76dfbf52b1e20",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Puzzles/Lord Mon Puzzles WIP.canvas",
+                "viewState": {
+                  "x": 320,
+                  "y": 690.5494505494506,
+                  "zoom": -1.3990959554098223
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Lord Mon Puzzles WIP"
+            }
+          },
+          {
+            "id": "967f1d41d032c3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Floors/B-111.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B-111"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0f3926d17e155848",
+        "type": "tabs",
+        "dimension": 84.55516014234875,
+        "children": [
+          {
+            "id": "76e4afc6fe5f9279",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Puzzles/Encoding.canvas",
+                "viewState": {
+                  "x": 100.15337855772901,
+                  "y": 732.0857018177245,
+                  "zoom": -0.3333333333333334
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Encoding"
+            }
+          },
           {
             "id": "0053efde252cc410",
             "type": "leaf",
@@ -23,31 +110,12 @@
             }
           },
           {
-            "id": "3ae2dab0e87df8fd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Puzzles/6x6 Grid.canvas",
-                "viewState": {
-                  "x": -227.3717121394888,
-                  "y": -349.5867004535068,
-                  "zoom": 0.3333333333333332
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "6x6 Grid"
-            }
-          },
-          {
-            "id": "d4b6fd87b7e5ee89",
+            "id": "b9825593fb9de480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Characters/Jenny.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,213 +130,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "967f1d41d032c3f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floors/B-092.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B-092"
-            }
-          },
-          {
-            "id": "e3c9da28a0781bf5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Decodings.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Decodings"
+              "title": "Jenny"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "0f3926d17e155848",
-        "type": "tabs",
-        "dimension": 49.3238434163701,
-        "children": [
-          {
-            "id": "76e4afc6fe5f9279",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Puzzles/Encoding.canvas",
-                "viewState": {
-                  "x": -359.3856443024687,
-                  "y": 1118.3483705304952,
-                  "zoom": -1.6666666666666665
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Encoding"
-            }
-          },
-          {
-            "id": "7d68d7d97e28c020",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/obsidian-vault-setup.png"
-              },
-              "icon": "lucide-image",
-              "title": "obsidian-vault-setup"
-            }
-          },
-          {
-            "id": "e6e42694d53af93e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floors/B-220.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B-220"
-            }
-          },
-          {
-            "id": "881336c7c74957b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/System Logs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "System Logs"
-            }
-          },
-          {
-            "id": "af0fb579cb572836",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Puzzles/Encoding.canvas",
-                "viewState": {
-                  "x": -773.623326928931,
-                  "y": 141.67767596347034,
-                  "zoom": -0.2925631756283235
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Encoding"
-            }
-          },
-          {
-            "id": "4c398e828b9abddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Egg Clues/Egg Clue.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Egg Clue"
-            }
-          },
-          {
-            "id": "dcdf61a62ab72d89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statues/Vecna Statue.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vecna Statue"
-            }
-          },
-          {
-            "id": "f232b2484b7fe967",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Puzzles/Tail's Tail 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Tail's Tail 1"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -325,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 858.5
   },
   "right": {
     "id": "3d6e01fa682c61b9",
@@ -341,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Characters/Jenny.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Jenny"
             }
           },
           {
@@ -417,47 +283,49 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d4b6fd87b7e5ee89",
+  "active": "b9825593fb9de480",
   "lastOpenFiles": [
-    "Floors/B-092.md",
+    "Characters/Billy Eillish.md",
+    "Characters/Jenny.md",
+    "Floors/B-194o.md",
+    "Floors/B-194p.md",
+    "Floors/B-194q.md",
+    "Floors/B-242.md",
+    "Floors/B-241.md",
+    "Floors/B-224.md",
+    "Floors/B-211.md",
+    "Brand.md",
+    "Characters/Treasure Huntress.md",
+    "Floors/B-111.md",
+    "Floors/B-112.md",
+    "Floors/B-110.md",
+    "Characters/Attachments/Pasted image 20260612125544.png",
+    "Floors/B-107.md",
+    "Floors/B-108.md",
+    "Floors/B-109.md",
+    "Egg Clues/Egg Clue.md",
+    "Floors/B-089.md",
+    "Floors/B-085.md",
+    "Murals/Covetous Mural.md",
+    "Excalidraw/Decodings.md",
+    "Puzzles/Encoding.canvas",
+    "Meta/System Logs.md",
+    "Puzzles/Picross Puzzles.canvas",
+    "Enemies/Enemies.md",
+    "Floors/B-106.md",
+    "Floors/B-105.md",
+    "Puzzles/Lord Mon Puzzles WIP.canvas",
+    "Puzzles/6x6 Grid.canvas",
     "Attachments/git-clone.png",
-    "README.md",
     "Attachments/obsidian-vault-setup.png",
     "Meta/Meta Tiles/Attachments/Pasted image 20260604225652.png",
     "Attachments/Pasted image 20260612102844.png",
-    "Characters/Tail.md",
-    "Floors/B-030.md",
-    "Floors/B-033.md",
-    "Floors/B-039.md",
-    "Floors/B-220.md",
-    "Puzzles/6x6 Grid.canvas",
-    "Puzzles/Tail's Tail 1.md",
-    "Characters/Treasure Huntress.md",
-    "Floors/Clue 90.md",
-    "Floors/B-124.md",
-    "Floors/B-091.md",
-    "Floors/B-090.md",
-    "Statues/Vecna Statue.md",
-    "Strange Carvings/Carving 89a.md",
-    "Excalidraw/Murals vs Statues.md",
-    "Floors/B-089.md",
-    "Egg Clues/Egg Clue.md",
-    "Characters/Void Lords/Lord Gor.md",
-    "Floors/B-089a.md",
-    "Floors/B-111.md",
-    "Floors/B-088.md",
-    "Floors/B-087.md",
-    "Floors/B-086.md",
-    "Characters/Void Lords/Lord Mon.md",
-    "Puzzles/Encoding.canvas",
     "Statues/Attachments/Pasted image 20260609215119.png",
     "Statues/Attachments/Pasted image 20260609215019.png",
     "Statues/Attachments/Pasted image 20260609215010.png",
     "Floors/Attachments/Pasted image 20260609214933.png",
     "Floors/Attachments/Pasted image 20260609214814.png",
     "Puzzles/Tail's Tail.canvas",
-    "Excalidraw/Attachments/Pasted image 20260528232846.png",
-    "Puzzles/Strange Carvings.canvas",
     "Puzzles/Meta Moves.canvas",
     "Puzzles/Exit Glow.canvas",
     "Puzzles/28 Floors.canvas",

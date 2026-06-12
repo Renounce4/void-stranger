@@ -6,6 +6,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 ```
 
+> Any regrets?
+
 > There's gotta be a way out.
 
 > Make it end.
@@ -61,6 +63,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 > Does anyone know my name?
 
+> My name...
+
 > Everything will be...
 
 > Everything disappears.
@@ -94,6 +98,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 > It can't be.
 
 > Who am I?
+
+> Who are you?
 
 > It hurts.
 
@@ -143,9 +149,13 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 > Can you hear me?
 
+> Can you hear them?
+
 > Air. I need air.
 
 > My hands won't move.
+
+> How long...
 
 > Hungry...
 
@@ -172,3 +182,5 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 > Where did my cat go?
 
 > Love me.
+
+> They lied.
