@@ -11,12 +11,12 @@ First, you will need to make sure you have the following installed on your compu
 Once you have those installed, follow the directions for your installed git tool to clone this repository locally and pull the latest changes.
 
 If you chose to use GitHub Desktop, there is a dedicated button on the repo to open it up in that tool.
-![Git Clone Step](./Attachments/git-clone.png)
+![Git Clone Step](Attachments/git-clone.png)
 
 ## Obsidian
 Once the repo for this notebook is on your machine, all you have left to do is open it within Obsidian. To do so, launch the app, and select the option to open an existing folder as a Vault. 
 
-![Obsidian Vault Opening Options](./Attachments/obsidian-vault-setup.png)
+![Obsidian Vault Opening Options](Attachments/obsidian-vault-setup.png)
 
 Navigate to your repository folder, wherever you cloned it to in the previous step, and select the top level folder which contains this very README.md file. Confirm, and you should be good to go!
 
