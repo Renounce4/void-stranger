@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Floors  ",
+      "color": {
+        "a": 1,
+        "rgb": 61488
+      }
+    },
+    {
+      "query": "path:Statues  ",
+      "color": {
+        "a": 1,
+        "rgb": 2109166
+      }
+    },
+    {
+      "query": "path:Enemies  ",
+      "color": {
+        "a": 1,
+        "rgb": 16056320
+      }
+    },
+    {
+      "query": "path:Characters ",
+      "color": {
+        "a": 1,
+        "rgb": 15041976
+      }
+    },
+    {
+      "query": "path:Items  ",
+      "color": {
+        "a": 1,
+        "rgb": 2752475
+      }
+    },
+    {
+      "query": "path:Puzzles  ",
+      "color": {
+        "a": 1,
+        "rgb": 15251985
+      }
+    },
+    {
+      "query": "path:\"Egg Clues\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Meta  ",
+      "color": {
+        "a": 1,
+        "rgb": 11141375
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5625,
+  "repelStrength": 10.4166666666667,
+  "linkStrength": 0.84375,
+  "linkDistance": 500,
+  "scale": 0.17876419919259134,
+  "close": false
+}

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"a0cfeb0653bb65cd","type":"text","text":"I can now pick up my HUD tiles and perhaps many more element of the game itself.","x":-240,"y":-300,"width":250,"height":117},
+		{"id":"8b3fc0bcd339c44b","type":"file","file":"Puzzles/Attachments/Pasted image 20260604215031.png","x":-441,"y":-100,"width":652,"height":367},
+		{"id":"75e5077e50f7702d","type":"file","file":"Meta/Meta Tiles/Meta Gem Tile.md","x":-700,"y":400,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"227ccc956529914d","fromNode":"8b3fc0bcd339c44b","fromSide":"bottom","toNode":"75e5077e50f7702d","toSide":"top"}
+	]
+}

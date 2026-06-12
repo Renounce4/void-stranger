@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "source",
+  "newFileFolderPath": "Planets",
+  "readableLineLength": false,
+  "attachmentFolderPath": "./Attachments"
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a4c86d57c59acf4e","type":"text","text":"It appears the game repeats on 28 floor cycles. It begins with a [[Mural]], followed by a [[Void Lord]], then a bunch of normal levels, and finally at the 28th floor, I find a tree, marking the end of the cycle.","x":-380,"y":-280,"width":361,"height":180},
+		{"id":"aaf171bd659c6117","x":120,"y":-280,"width":400,"height":400,"type":"file","file":"Characters/Void Lords/Void Lord.md"},
+		{"id":"fd59f24a87f152cd","x":-324,"y":-55,"width":250,"height":175,"type":"text","text":"Because each [[Void Lord]] appears to have 28 associated floors, and there are reported to be 8 total void lords, I expect there to be at least 224 total levels"}
+	],
+	"edges":[
+		{"id":"5b32ee73e164634d","fromNode":"a4c86d57c59acf4e","fromSide":"right","toNode":"aaf171bd659c6117","toSide":"left"},
+		{"id":"c3d9374c12757554","fromNode":"fd59f24a87f152cd","fromSide":"right","toNode":"aaf171bd659c6117","toSide":"left"}
+	]
+}

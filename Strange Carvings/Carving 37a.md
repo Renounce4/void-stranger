@@ -1,0 +1,1 @@
+![[Pasted image 20260528234446.png]]We have a 7x6 picross with 20 tiles

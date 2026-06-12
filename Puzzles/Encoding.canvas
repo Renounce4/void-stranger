@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"a1c522818fe5c2fd","type":"file","file":"Utils/ASCII Table.md","x":-720,"y":-460,"width":400,"height":400},
+		{"id":"4ca319a840da46f2","type":"file","file":"Excalidraw/Decodings.md","x":239,"y":-460,"width":400,"height":400},
+		{"id":"332113a535c9a933","type":"file","file":"Murals/Wasp Mural.md","x":-720,"y":124,"width":400,"height":400},
+		{"id":"47d85e0408406143","type":"file","file":"Murals/Locust Mural.md","x":80,"y":124,"width":400,"height":400},
+		{"id":"abc0bf35c743dd09","type":"file","file":"Murals/Covetous Mural.md","x":-720,"y":524,"width":400,"height":400},
+		{"id":"1610b900687733a9","type":"file","file":"Murals/Bug Mural.md","x":-320,"y":524,"width":400,"height":400},
+		{"id":"fda437048984415d","type":"file","file":"Murals/Ghost Mural.md","x":80,"y":524,"width":400,"height":400},
+		{"id":"b34a2c4185035852","type":"file","file":"Murals/Mojo Jojo Mural.md","x":-720,"y":924,"width":400,"height":400},
+		{"id":"db56ea1fc8560888","type":"file","file":"Murals/Lizard Mural.md","x":-320,"y":124,"width":400,"height":400},
+		{"id":"c1b223d6b85e4f41","type":"text","text":"Gluttony","x":665,"y":414,"width":250,"height":60},
+		{"id":"f06c6333360f0e1b","type":"text","text":"Sloth","x":665,"y":539,"width":250,"height":60},
+		{"id":"fae9fabcef9c42ed","type":"text","text":"Envy","x":-1060,"y":1124,"width":250,"height":60},
+		{"id":"fe58cc9147944982","type":"text","text":"Wrath","x":514,"y":1094,"width":250,"height":60},
+		{"id":"e31710d0a885b169","type":"file","file":"Murals/Unknown Mural.md","x":-320,"y":1094,"width":400,"height":400},
+		{"id":"f919755d35d12bd7","type":"text","text":"Greed","x":-1060,"y":724,"width":250,"height":60},
+		{"id":"5ddcf2e2794dc910","type":"text","text":"Each of the [[Mural]] walls tiles have an 8 pixel encoding within them. It at first glance appears to be [[ASCII Table]] characters, but it does not spell anything obvious, so I'm currently at a dead end","x":-170,"y":-320,"width":250,"height":260},
+		{"id":"2b077c57c0f860b3","type":"text","text":"Lust","x":-245,"y":-20,"width":250,"height":60},
+		{"id":"3d00161e2dac5e6e","type":"text","text":"Pride","x":-1185,"y":264,"width":250,"height":60},
+		{"id":"cc9a1ee95ed90262","type":"text","text":"???","x":355,"y":1324,"width":250,"height":60},
+		{"id":"edc0ee04ca9d53ab","type":"text","text":"It is possible that the core lore of the game follows the history of the 8 deadly sins becoming 7 with Pride and Vainglory combining together as [[Lord Add]] and [[Lord Eus]] supposedly did.","x":-1213,"y":-250,"width":250,"height":290,"color":"3"},
+		{"id":"1181dfad43ab7716","type":"text","text":"Lust","x":-204,"y":693,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d7f107c6dc21af9b","fromNode":"c1b223d6b85e4f41","fromSide":"left","toNode":"47d85e0408406143","toSide":"right"},
+		{"id":"b8a44a6fcb6f0f8f","fromNode":"fae9fabcef9c42ed","fromSide":"right","toNode":"b34a2c4185035852","toSide":"left"},
+		{"id":"a11efd450be36440","fromNode":"fe58cc9147944982","fromSide":"left","toNode":"1610b900687733a9","toSide":"bottom"},
+		{"id":"756d45e6b35ec704","fromNode":"f919755d35d12bd7","fromSide":"right","toNode":"abc0bf35c743dd09","toSide":"left"},
+		{"id":"db9f2a5ed0cb3455","fromNode":"2b077c57c0f860b3","fromSide":"bottom","toNode":"db56ea1fc8560888","toSide":"top"},
+		{"id":"e7f2c7c7cb223dac","fromNode":"f06c6333360f0e1b","fromSide":"left","toNode":"fda437048984415d","toSide":"right","label":"Unsure"},
+		{"id":"72c308839615f193","fromNode":"3d00161e2dac5e6e","fromSide":"right","toNode":"332113a535c9a933","toSide":"left","label":"Unsure"},
+		{"id":"b887d0ffbbe1993e","fromNode":"cc9a1ee95ed90262","fromSide":"left","toNode":"e31710d0a885b169","toSide":"right","label":"Unsure"}
+	]
+}

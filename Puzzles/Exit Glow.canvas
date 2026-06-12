@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"1fb092f609db5546","type":"text","text":"Why does the exit seem to glow when someone else is on it? Perhaps it's just an indicator so you don't get lost.","x":60,"y":-143,"width":250,"height":197},
+		{"id":"150d5cbbfe3c57be","type":"file","file":"Puzzles/Attachments/Pasted image 20260515140713.png","x":-500,"y":-300,"width":400,"height":393}
+	],
+	"edges":[]
+}

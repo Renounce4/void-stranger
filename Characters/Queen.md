@@ -1,0 +1,1 @@
+Died early in the [[Princess Lily]]' life.

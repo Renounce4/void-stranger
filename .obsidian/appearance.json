@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "New Text Document",
+    "tables",
+    "custom_tables"
+  ]
+}
