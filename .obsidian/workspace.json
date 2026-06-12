@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Tail.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tail"
+              "title": "README"
             }
           },
           {
@@ -128,6 +128,18 @@
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Encoding"
+            }
+          },
+          {
+            "id": "7d68d7d97e28c020",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/obsidian-vault-setup.png"
+              },
+              "icon": "lucide-image",
+              "title": "obsidian-vault-setup"
             }
           },
           {
@@ -329,13 +341,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Tail.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tail"
+              "title": "Outline of README"
             }
           },
           {
@@ -407,6 +419,13 @@
   },
   "active": "d4b6fd87b7e5ee89",
   "lastOpenFiles": [
+    "Floors/B-092.md",
+    "Attachments/git-clone.png",
+    "README.md",
+    "Attachments/obsidian-vault-setup.png",
+    "Meta/Meta Tiles/Attachments/Pasted image 20260604225652.png",
+    "Attachments/Pasted image 20260612102844.png",
+    "Characters/Tail.md",
     "Floors/B-030.md",
     "Floors/B-033.md",
     "Floors/B-039.md",
@@ -414,7 +433,6 @@
     "Puzzles/6x6 Grid.canvas",
     "Puzzles/Tail's Tail 1.md",
     "Characters/Treasure Huntress.md",
-    "Floors/B-092.md",
     "Floors/Clue 90.md",
     "Floors/B-124.md",
     "Floors/B-091.md",
@@ -422,7 +440,6 @@
     "Statues/Vecna Statue.md",
     "Strange Carvings/Carving 89a.md",
     "Excalidraw/Murals vs Statues.md",
-    "Characters/Tail.md",
     "Floors/B-089.md",
     "Egg Clues/Egg Clue.md",
     "Characters/Void Lords/Lord Gor.md",
@@ -432,8 +449,6 @@
     "Floors/B-087.md",
     "Floors/B-086.md",
     "Characters/Void Lords/Lord Mon.md",
-    "Egg Clues/Clue 88.md",
-    "Characters/Void Lords/Lord Tan.md",
     "Puzzles/Encoding.canvas",
     "Statues/Attachments/Pasted image 20260609215119.png",
     "Statues/Attachments/Pasted image 20260609215019.png",
@@ -442,10 +457,6 @@
     "Floors/Attachments/Pasted image 20260609214814.png",
     "Puzzles/Tail's Tail.canvas",
     "Excalidraw/Attachments/Pasted image 20260528232846.png",
-    "Puzzles/Attachments/Pasted Image 20260609202912_293.png",
-    "Excalidraw/Attachments/Pasted image 20260609201340.png",
-    "Excalidraw/Attachments/Pasted image 20260609201327.png",
-    "Excalidraw/Attachments/Pasted image 20260609200750.png",
     "Puzzles/Strange Carvings.canvas",
     "Puzzles/Meta Moves.canvas",
     "Puzzles/Exit Glow.canvas",
