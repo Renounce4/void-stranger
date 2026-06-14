@@ -7,9 +7,11 @@ With the [[Void Memory]], I can read this:
 > [... Were you always able to read this?]
 
 # Notes
-Bumping into this repeatedly broke the wall down to reveal a computer screen
+Bumping into this 7 times broke the wall down to reveal a computer screen
 ![[Pasted image 20260606192652.png]]
 
 ![[Pasted image 20260606192725.png]]
 > \[The mural crumbled away, revealing a small niche full of...\]
 > \[... What is this?\]
+
+#theory I have to do something with [[Covetous Mural]] which has digits lit up first

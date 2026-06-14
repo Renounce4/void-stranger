@@ -4,9 +4,9 @@
 		{"id":"4d72c2dcbf49fa9c","type":"file","file":"Murals/Lizard Mural.md","x":245,"y":-160,"width":400,"height":400},
 		{"id":"4861a7b8d2d4d32d","type":"file","file":"Attachments/Lizard Mural.png","x":-890,"y":-200,"width":1010,"height":568},
 		{"id":"ad02dd0bd6d291c2","type":"file","file":"Puzzles/Tail's Tail.md","x":-660,"y":-960,"width":400,"height":400},
-		{"id":"96dcacde056dc38e","x":-700,"y":460,"width":400,"height":400,"type":"file","file":"Puzzles/Tail's Tail 1.md"},
+		{"id":"96dcacde056dc38e","type":"file","file":"Puzzles/Tail's Tail Solved.md","x":-700,"y":460,"width":400,"height":400},
 		{"id":"789a049da9092cf3","type":"file","file":"Egg Clues/Clue 29.md","x":320,"y":-660,"width":400,"height":400},
-		{"id":"499d72f6846abb18","x":-260,"y":460,"width":400,"height":400,"type":"file","file":"Floors/B-053.md"}
+		{"id":"499d72f6846abb18","type":"file","file":"Floors/B-053.md","x":-260,"y":460,"width":400,"height":400}
 	],
 	"edges":[]
 }

@@ -35,8 +35,8 @@ Talks to me if I die with zero [[Locusts Idol]]s remaining and truly fail.
 ###### You refuse
 > ...
 > Is this all it took?
-> For you to give up?
-> Even after... (missed some dialog here)
+> For you to give up, mortal?
+> Even when my interest in your kind keeps waning.
 > I can't help but wonder.
 > What made you feel that way.
 > Your scattered thoughts will soon join the others.
@@ -45,6 +45,16 @@ Talks to me if I die with zero [[Locusts Idol]]s remaining and truly fail.
 Game screen flashes bright in an explosion and the game closes.
 
 #### You wish to give up
+Leads to [[#You refuse]]
 
 ## No
-#todo
+> Ah, didn't recognize you.
+> I'm kinda bad with faces.
+> Tell me.
+> Do you still wish to continue?
+
+Leads to [[#Choice 2]] but skips telling me about the fruit for continuing and just gives it to me
+![[Pasted image 20260613213107.png]]
+Eating this fruit replaces the [[HP Tile]] and [[HP Value Tile]] with the [[VOID Tiles]] on my [[HUD]] and makes it so I can never fully die. 
+
+

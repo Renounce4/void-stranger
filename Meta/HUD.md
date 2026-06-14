@@ -8,6 +8,7 @@ After picking up [[Meta Tiles]], the part of my [[HUD]] is gone, and my [[Magic 
 	- More interestingly, this allows me to rewind back to whatever level I actually want down to the lowest hundreds place
 	- **REMEMBER TO GIVE MYSELF THE [[Meta Locust Value Tile]] FIRST!!!
 
+My HP Tiles can be replaced with [[VOID Tiles]] by eating the [[Fruit]] from [[Bat Boy]].
 # Behavior
 
 After a level transition, the [[HUD]] will reset each tile accordingly.

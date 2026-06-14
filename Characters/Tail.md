@@ -4,6 +4,12 @@ Giant snake lady, was once a piece of [[Lord Eus]].
 Found on [[B-030]]
 
 
+Following the directions of [[Void Talisman]] to reach her tail with the [[Void Wings]] and interacting with it while having the [[Void Sword]] just straight up kills her... :'(
+This also removes her tail from all of the subsequent levels that had...
+
+#todo/exploration try reaching her tail with only [[Void Wings]] and no [[Void Sword]]
+
+
 # Conversation
 
 ## Lower Half
@@ -12,6 +18,9 @@ Interacting with her lower half:
 > My scales are rather sensitive.
 > Please come hither, if you wish to talk.
 > I won't bite.
+
+Interacting with her lower half before talking to her?:
+> Watch where you step, my scales are very sesitive.
 
 After bumping:
 > \[She doesn't seem to mind that much\]

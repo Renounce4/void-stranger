@@ -7,6 +7,9 @@ Tried falling in front of one - nothing.
 After playing through a dream sequence, the tree loses its leaves.
 ![[Tree Empty.png]]
 
+Interacting with it now gives me:
+> \[The tree has withered\]
+> \[Better move on\]
 # [[B-028]]
 Started at the top of a castle and walked my way down, meeting a few guards and [[Four Eyes]] along the way. I entered a bed room and fought a "monster" underneath the blanket that turned out to just be a grumpy [[Princess Lily]].
 
@@ -99,9 +102,117 @@ The carriage gets blocked by an avalanche. [[Bandito]] appears behind us and say
 Two bandits ambushed [[Princess Lily]] but [[Johann]] appeared out of nowhere and saved her, then snapped his fingers and instantly destroyed [[Bandito]]. He then introduced himself to [[Princess Lily]] and she was smitten as a kitten.
 
 At this point, I was brought to [[ZERO Justice]]. This may have happened now because this was my final [[Tree]] slept under.
+
 # [[B-112]]
-Met [[Johann]] and learned he saved [[Princess Lily]] and she was very smitten.
+[[Princess Lily]] and [[Lady Gray]] are talking about [[Johann]]
+[[Princess Lily]]
+> Taking down those goons in one fell swoop...
+> That was so awesome!
+> And then [[Johann|he]] gave that [[Bandito|bandit]] that look just before frying his sorry ass...
+> Is he really a king?
+> He is way too cool for that!
+
+[[Lady Gray]]
+> Please, try to calm down a bit, Your Highness.
+> This has been a long day for you.
+
+[[Princess Lily]]
+> I know, but I'm too excited to sleep...
+> Hey, do you think I'll be able to meet [[Johann|Johann]] tomorrow?
+> Maybe he'll show me how to do that lightning spell!
+
+[[Lady Gray]]
+> Such magic shouldn't be used lightly, Your Highness.
+
+[[Princess Lily]]
+> Killjoy Gray strikes again...
+> Are you perhaps a bit envious?
+
 [[Johann]] met with me ([[Lady Gray]]) in private and mentioned he knew of my past as [[Gray the Destroyer]]
+[[Johann]]
+> Enjoying the snowfall?
+> Our winter has its upsides, don't you think?
+
+[[Lady Gray]]
+> Your Lordship!
+> 
+> Forgive me, I almost didn't recognize you without the armor.
+> Allow me to thank you once more for saving [[Princess Lily|Her Highness]], Your Lordship.
+
+[[Johann]]
+> It was the least I could do.
+> I hope [[Princess Lily|Her Highness]] is feeling better?
+
+[[Lady Gray]]
+> She fell asleep, finally.
+> She must've been exhausted after all that.
+> But no need to worry, Your Lordship.
+> She isn't the kind to get easily startled.
+> Although Your Lordship did leave quite an impression on her.
+
+[[Johann]]
+> Please, just call me Johann.
+> I'm not really a man of lofty titles.
+
+[[Lady Gray]]
+> ... I'd heard you were rather down-to-earth.
+> Although I didn't expect you to still rush into battle all by yourself.
+
+[[Johann]]
+> A good ruler does anything in their power to right the wrong.
+> That's simply their responsibility.
+> Alas, not all rules abide by such ideals.
+> Many horrible things have happened to this country and its people by the result of simple negligence.
+> I wish not to repeat that mistake.
+> Even if it means getting my hands dirty from time to time.
+> 
+> Speaking of which, things may not have turned out so well today without your contribution, Lady Gray.
+> As I understand, you held off those [[Bandito|bandits]] for quite some time all by yourself.
+
+[[Lady Gray]]
+> I was simply doing my part as the lady-in-waiting.
+
+[[Johann]]
+> And then some, I'd argue.
+> Do not belittle yourself.
+> I can tell you're not an ordinary courtlady, Lady Gray.
+> Or should I say "Gray the Destroyer"?
+
+[[Lady Gray]]
+> ...
+> So you too have heard of it.
+> ![[Pasted image 20260613195409.png]]
+> I've done my best to leave that nickname behind me, along with my past deeds.
+> ![[Pasted image 20260613195506.png]]
+> But as long as I can serve [[Princess Lily|Her Highness]] to the best of my abilities...
+> That's all that matters.
+
+[[Johann]]
+> I admire your devotion towards Her Highness.
+> Still, I can't help but wonder...
+> A fighter of your capability could have dispatched that paltry band of thieves in an instant.
+> Yet you took your time, almost as if you were simply toying with them.
+> When you were fighting those crooks...
+> Did you, at any moment, enjoy it?
+
+[[Lady Gray]]
+> ...!
+> ...
+
+[[Johann]]
+> That's tactless of me...
+> Pay my frivolous musings no mind.
+> Starting tomorrow, I'd like to get to know this [[Princess Lily|Demon Princess]] of yours a little better.
+> ... With your assistance, if you're willing.
+
+[[Lady Gray]]
+> Of course.
+> I'm sure Her Highness would be delighted as well.
+
+[[Johann]]
+> I'll be looking forward to it, then.
+> Have a good night, Lady Gray.
+> ![[Pasted image 20260613200043.png]]
 
 # [[B-140]]
 [[Princess Lily]] has fallen in love with [[Johann]]. He had been away but showed up unannounced. She ran to him quickly, and they have important news for [[Lady Gray]].

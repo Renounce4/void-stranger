@@ -5,6 +5,4 @@
 
 Same clue as [[B-053]]
 
-Pretty sure this is referencing [[Lord Bee]]
-This might have something to do with [[Tail's Tail.canvas]]
-#todo 
+This had to do with [[Tail's Tail.canvas]]

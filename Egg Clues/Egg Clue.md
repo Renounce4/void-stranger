@@ -6,9 +6,19 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 ```
 
+> ...
+
+> Kill.
+
+> I'm begging you.
+
+> I'll wake up soon... Right?
+
 > Any regrets?
 
 > There's gotta be a way out.
+
+> There's no way out.
 
 > Make it end.
 
@@ -37,6 +47,10 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 > Truth.
 
+> Stop it!
+
+> Please, stop...
+
 > Listen.
 
 > Bitter.
@@ -46,6 +60,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 > My voice...
 
 > I can't see anything.
+
+> I can't cry.
 
 > Forgive me...
 
@@ -65,11 +81,15 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 > My name...
 
+> I can't remember my name.
+
 > Everything will be...
 
 > Everything disappears.
 
 > No no no.
+
+> I can't feel my legs.
 
 > My last words...
 
@@ -89,9 +109,13 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 > Father...
 
+> Sing for me.
+
 > Is this the price for my sins?
 
 > Why can't I fall asleep?
+
+> Why did it have to end like this?
 
 > Is this the end?
 
@@ -171,6 +195,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 > What are you eating, my darling.
 
+> Dark.
+
 > Are you there?
 
 > Where did I go wrong?
@@ -184,3 +210,5 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 > Love me.
 
 > They lied.
+
+> Hey.
