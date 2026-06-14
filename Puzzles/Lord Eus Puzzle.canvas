@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"ee2b8cf9f32fd622","type":"file","file":"Puzzles/Tail's Tail.md","x":-320,"y":-100,"width":400,"height":400},
+		{"id":"0fdaa6605a02cd5c","type":"file","file":"Puzzles/Tail's Tail Solved.md","x":160,"y":-100,"width":400,"height":400},
+		{"id":"36546f226bd23458","type":"file","file":"Murals/Lizard Mural.md","x":-860,"y":-100,"width":400,"height":400},
+		{"id":"7c83fdf1474a1fbf","type":"file","file":"Characters/Void Lords/Lord Eus.md","x":-1160,"y":-820,"width":400,"height":400},
+		{"id":"d55f4e08e2830b9b","type":"file","file":"Egg Clues/Clue 29.md","x":-460,"y":-800,"width":400,"height":400},
+		{"id":"97324c91caa654f8","type":"file","file":"Floors/B-053.md","x":-320,"y":580,"width":400,"height":400},
+		{"id":"0c53dfeba493124c","type":"file","file":"Egg Clues/Clue 53.md","x":-60,"y":-800,"width":400,"height":400},
+		{"id":"6c2315c57afbf54a","x":180,"y":580,"width":400,"height":540,"type":"file","file":"Floors/B-053a.md"},
+		{"id":"901d4f2853fe97e8","x":180,"y":1240,"width":400,"height":540,"type":"file","file":"Items/Void Talisman.md"},
+		{"id":"9887e5adf9174337","x":-400,"y":1920,"width":400,"height":225,"type":"file","file":"Floors/Attachments/Pasted image 20260613224541.png"},
+		{"id":"a91bcd1903357a7f","x":-540,"y":1240,"width":400,"height":400,"type":"file","file":"Floors/B-030.md"}
+	],
+	"edges":[
+		{"id":"0c7911723e132e9d","fromNode":"d55f4e08e2830b9b","fromSide":"bottom","toNode":"ee2b8cf9f32fd622","toSide":"top"},
+		{"id":"f140fa4ca7b4c6f4","fromNode":"d55f4e08e2830b9b","fromSide":"bottom","toNode":"0fdaa6605a02cd5c","toSide":"top"},
+		{"id":"691f5d83457b9584","fromNode":"0fdaa6605a02cd5c","fromSide":"bottom","toNode":"97324c91caa654f8","toSide":"top"},
+		{"id":"688c2e4b62bfd688","fromNode":"97324c91caa654f8","fromSide":"right","toNode":"6c2315c57afbf54a","toSide":"left"},
+		{"id":"23e438e4215d5761","fromNode":"6c2315c57afbf54a","fromSide":"bottom","toNode":"901d4f2853fe97e8","toSide":"top"},
+		{"id":"fe5d2df141e8b3ed","fromNode":"901d4f2853fe97e8","fromSide":"left","toNode":"a91bcd1903357a7f","toSide":"right"},
+		{"id":"e61689d0698ab04c","fromNode":"a91bcd1903357a7f","fromSide":"bottom","toNode":"9887e5adf9174337","toSide":"top"},
+		{"id":"8ee737e4dfb83e66","fromNode":"901d4f2853fe97e8","fromSide":"left","toNode":"9887e5adf9174337","toSide":"top"}
+	]
+}

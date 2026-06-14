@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1bb186c6ddaebcd6","x":-460,"y":-120,"width":400,"height":400,"type":"file","file":"Egg Clues/Clue 23a.md"},
+		{"id":"dbc9ee71b9edd1aa","x":0,"y":-120,"width":400,"height":400,"type":"file","file":"Egg Clues/Clue 3.md"},
+		{"id":"a1b67194ab8ed680","x":520,"y":-120,"width":400,"height":400,"type":"file","file":"Items/Void Talisman.md"},
+		{"id":"81fe6dfd6a2d627c","x":75,"y":-480,"width":250,"height":200,"type":"text","text":"For some reason, tapping things and then waiting for a number of seconds equal to the number of taps is a recurring technique in this game..."}
+	],
+	"edges":[
+		{"id":"4c90ead2214a7b41","fromNode":"81fe6dfd6a2d627c","fromSide":"bottom","toNode":"1bb186c6ddaebcd6","toSide":"top"},
+		{"id":"fb61bbba20b79d2a","fromNode":"81fe6dfd6a2d627c","fromSide":"bottom","toNode":"dbc9ee71b9edd1aa","toSide":"top"},
+		{"id":"53c7d5210fbc20bf","fromNode":"81fe6dfd6a2d627c","fromSide":"bottom","toNode":"a1b67194ab8ed680","toSide":"top"}
+	]
+}
