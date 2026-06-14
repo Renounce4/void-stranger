@@ -53,8 +53,7 @@ Leads to [[#You refuse]]
 > Tell me.
 > Do you still wish to continue?
 
-Leads to [[#Choice 2]] but skips telling me about the fruit for continuing and just gives it to me
-![[Pasted image 20260613213107.png]]
-Eating this fruit replaces the [[HP Tile]] and [[HP Value Tile]] with the [[VOID Tiles]] on my [[HUD]] and makes it so I can never fully die. 
+Leads to [[#Choice 2]] but skips telling me about the [[Void Fruit]] for continuing and just gives it to me.
+
 
 

@@ -40,7 +40,7 @@ I can trade all of my current [[Locusts Idol]]s for a unique secret on each floo
 > \[The dubious merchant smirks, barely able to contain their laughter\]
 > \[...\]
 > (REPEATS THE CLUE)
-> \[Did they just swindle you?\]
+> \[... Did they just swindle you?\]
 
 ## Second Encounter
 > Hello stranger... (paraphrase)
@@ -61,3 +61,12 @@ I can trade all of my current [[Locusts Idol]]s for a unique secret on each floo
 
 > Do you remember how long you've been here...?
 > Don't worry, you'll get used to it.
+> Ksi shi shi shi shi shi shi...
+
+> \[The dubious merchant smirks, barely able to contain their laughter\]
+> \[...\]
+> (REPEATS THE CLUE)
+> \[... Did they just swindle you?\]
+
+## Bumping
+Has no effect seemingly ever (outside of pushing them into the void that is)

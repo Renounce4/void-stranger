@@ -8,6 +8,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 > ...
 
+> Too... Tired...
+
 > Kill.
 
 > I'm begging you.
@@ -62,6 +64,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 > I can't see anything.
 
 > I can't cry.
+
+> Don't cry.
 
 > Forgive me...
 
@@ -191,6 +195,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 > What happened to the lights?
 
+> Lights.
+
 > What am I?
 
 > What are you eating, my darling.
@@ -204,6 +210,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 > Where am I?
 
 > Where did my face go?
+
+> What happened to my face?
 
 > Where did my cat go?
 

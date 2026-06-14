@@ -53,7 +53,7 @@
 		{"id":"de33896c45d209d1","type":"file","file":"Floors/B-053a.md","x":80,"y":-540,"width":400,"height":400},
 		{"id":"80b8f19df5dd50ea","type":"file","file":"Items/Void Talisman.md","x":590,"y":-540,"width":400,"height":400},
 		{"id":"9876924b668181ca","type":"file","file":"Statues/Black Statue.md","x":1080,"y":1320,"width":400,"height":400},
-		{"id":"375855bd7e1c2621","x":1080,"y":400,"width":400,"height":400,"type":"file","file":"Statues/Vecna Statue.md"}
+		{"id":"375855bd7e1c2621","type":"file","file":"Statues/Vecna Statue.md","x":1080,"y":400,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"cb5aad7e81e582c3","fromNode":"d850ed0a8f0b85cf","fromSide":"right","toNode":"188f2a6fa9c41130","toSide":"left"},

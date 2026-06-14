@@ -11,3 +11,12 @@ Interacting gives me:
 > The [[First Seal|first seal]] will be severed...
 
 I needed to do this at [[B-030]] on the [[Lorn Idol]]
+
+# Broken
+![[Pasted image 20260614002835.png]]
+After killing [[Tail]], this item is broken. Interacting with it says
+> \[A broken [[Seal|seal]]\]
+
+I just bounce off of it.
+
+#todo/exploration come back after talking to [[Tail]] from behind instead of killing her
