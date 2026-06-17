@@ -51,7 +51,11 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 > Stop it!
 
+> Please.
+
 > Please, stop...
+
+> Please don't hurt me.
 
 > Listen.
 
@@ -91,6 +95,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 > Everything disappears.
 
+> Everything is so cold.
+
 > No no no.
 
 > I can't feel my legs.
@@ -100,6 +106,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 > Water... I want some water.
 
 > I want to touch you.
+
+> I want to see your face one more time...
 
 > I want to die.
 
@@ -159,6 +167,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 
 > I don't want to die.
 
+> What's happening to me?
+
 > I didn't do anything wrong.
 
 > Flesh.
@@ -172,6 +182,8 @@ Though [[Clue 29]] says to only talk to loners, there is some default text for a
 > Numb.
 
 > My back is itchy.
+
+> My back is killing my.
 
 > What...?
 

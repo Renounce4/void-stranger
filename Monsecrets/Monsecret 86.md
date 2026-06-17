@@ -1,0 +1,3 @@
+> A suspicious empty [[Chest|chest]] surrounded by nothing, inspect it one too many times...
+
+This is referencing [[B-083]] #todo/exploration 

@@ -2,8 +2,11 @@
 	"nodes":[
 		{"id":"cae97827b1b821a3","type":"file","file":"Strange Carvings/Carving 179a.md","x":-320,"y":-300,"width":400,"height":480},
 		{"id":"725655df045ff67e","type":"file","file":"Strange Carvings/Carving 37a.md","x":140,"y":-300,"width":400,"height":400},
-		{"id":"e55ba1deee43ce72","type":"file","file":"Strange Carvings/Carving 193a.md","x":140,"y":140,"width":400,"height":540},
-		{"id":"8d0e8aff23119b49","type":"file","file":"Strange Carvings/Carving 7a.md","x":-320,"y":240,"width":400,"height":400}
+		{"id":"e55ba1deee43ce72","type":"file","file":"Strange Carvings/Carving 193a.md","x":140,"y":140,"width":400,"height":445},
+		{"id":"8d0e8aff23119b49","type":"file","file":"Strange Carvings/Carving 7a.md","x":-320,"y":240,"width":400,"height":400},
+		{"id":"c7b14bf0044f9396","type":"file","file":"Strange Carvings/Carving 144a.md","x":-320,"y":720,"width":400,"height":400},
+		{"id":"8a859110cd2f43be","type":"file","file":"Strange Carvings/Carving 131a.md","x":140,"y":720,"width":400,"height":400},
+		{"id":"07c29b03217261fb","x":-181,"y":-637,"width":561,"height":242,"type":"text","text":"I find these in sub areas. Currently have no idea what to do with them.\n\n# Conversations\n> \\[Strange carvings glow through the niche\\]"}
 	],
 	"edges":[]
 }

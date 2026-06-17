@@ -1,5 +1,5 @@
 ![[Pasted image 20260604220842.png]]
-I can pick this up from the [[HUD]]. Doing so instantly kills me, consuming a [[Locusts Idol]].
+I can pick this up from the [[HUD]]. Doing so instantly kills me, consuming a [[Locust Idol]].
 
 
 # System Logs

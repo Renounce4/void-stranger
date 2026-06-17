@@ -4,7 +4,7 @@ After picking up [[Meta Tiles]], the part of my [[HUD]] is gone, and my [[Magic 
 ![[Pasted image 20260604005725.png]]
 
 # Tech
-- I can take [[Meta Floor Tens Tile]], replace the [[Meta Locust Value Tile]] with it, and then die to increase my [[Locusts Idol]]s
+- I can take [[Meta Floor Tens Tile]], replace the [[Meta Locust Value Tile]] with it, and then die to increase my [[Locust Idol]]s
 	- More interestingly, this allows me to rewind back to whatever level I actually want down to the lowest hundreds place
 	- **REMEMBER TO GIVE MYSELF THE [[Meta Locust Value Tile]] FIRST!!!
 
@@ -14,7 +14,7 @@ My HP Tiles can be replaced with [[VOID Tiles]] by eating the [[Void Fruit]] fro
 After a level transition, the [[HUD]] will reset each tile accordingly.
 1. Left most tile is set to either blank or [[Meta Gem Tile]]
 2. [[HP Tile]] is set
-3. [[HP Value Tile]] defaults to `00` if missing, otherwise stays the same
+3. [[HP Value Tile]] defaults to `00` if missing, killing me, otherwise stays the same
 4. Blank tile
 5. [[Meta Locust Idol Tile]] is set
 6. [[Meta Locust Value Tile]] defaults to `00` if missing, otherwise stays the same

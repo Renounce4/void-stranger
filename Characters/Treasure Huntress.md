@@ -22,7 +22,7 @@ The enemies seem to have odd behaviors with her.
 Met on floor [[B-096]]
 > \[A woman stands in front of a [[Chest|chest]], blocking your way\]
 > \[She's muttering to herself\]
-> Still nothing... #question why can't she see the [[Locusts Idol]]s?
+> Still nothing... #question why can't she see the [[Locust Idol]]s?
 > Oh, didn't notice you there.
 > Quite unexpected to bump into someone else down here.
 > Are you a treasure hunter as well?
@@ -62,7 +62,7 @@ Interact again (after being careful to not push her into the hole)
 > Here, just to show I've no ill will toward you...
 > You can have these as well.
 > I don't see much use for them but maybe you'll appreciate the gesture.
-> \[You received seven [[Locusts Idol|locust idols]]\]
+> \[You received seven [[Locust Idol|locust idols]]\]
 > \[L U C K Y !\]
 
 Interact again (after being careful to not push her into the hole)

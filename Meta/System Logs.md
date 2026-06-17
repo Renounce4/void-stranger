@@ -12,7 +12,7 @@ Oddly, these logs do not show up on filled tiles, but rather underneath them wit
 
 # Known Variables
 Each variable itself can be `NULL` if the [[Meta Tile]] holding it is in my [[Magic Rod]]. The values of the variable can also be considered `INVALID/MISSING` if the [[Meta Tile]] for that variable doesn't have a number in front of it. 
-- `LI` = [[Locusts Idol]]
+- `LI` = [[Locust Idol]]
 - `HP` = Hit Points
 	- Tied giving myself more than 999 HP and took a hit - only the first two leftmost digits were respected for HP value, thus I still died
 - `BR` = Current Floor

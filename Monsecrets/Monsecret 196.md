@@ -1,0 +1,3 @@
+> Nothing but a straight road, take the fall before your [[Mr. Self Defense|reflection]]...
+
+Pretty sure this is referencing [[B-163]]

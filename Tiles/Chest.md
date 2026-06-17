@@ -1,11 +1,11 @@
 ![[Pasted image 20260510003420.png]]
 
-Contains [[Locusts Idol]]
+Contains [[Locust Idol]]
 
 # Notes
-Triple tapping a chest from the backside appears to make it "L U C K Y" and contain 3 [[Locusts Idol]]s ^9f2afe
+Triple tapping a chest from the backside appears to make it "L U C K Y" and contain 3 [[Locust Idol]]s ^9f2afe
 If it is my first time doing so since launching the game, it says
-> You've acquired three locust idols (paraphrase)
+> \[You acquired three locust idols\]
 > \[L U C K Y !\]
 
 Reopening a chest after having already gotten the locust idol out of it but then dying will give me:

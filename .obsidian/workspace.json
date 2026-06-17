@@ -6,7 +6,7 @@
       {
         "id": "f02f426666d1d4fa",
         "type": "tabs",
-        "dimension": 43.925831202046034,
+        "dimension": 28.516624040920718,
         "children": [
           {
             "id": "3ae2dab0e87df8fd",
@@ -17,9 +17,9 @@
               "state": {
                 "file": "Puzzles/6x6 Grid.canvas",
                 "viewState": {
-                  "x": -678.1150473484495,
-                  "y": 2115.3374357635953,
-                  "zoom": -1.3333333333333333
+                  "x": 166.94350839705444,
+                  "y": 2040.3195915689025,
+                  "zoom": -0.6666666666666667
                 }
               },
               "pinned": true,
@@ -28,76 +28,81 @@
             }
           },
           {
-            "id": "4ba0d6f0f6d43a1e",
+            "id": "5e2c19cc42750d2a",
             "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Floors/B-000.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B-000"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0f3926d17e155848",
+        "type": "tabs",
+        "dimension": 71.48337595907928,
+        "children": [
+          {
+            "id": "76e4afc6fe5f9279",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Puzzles/Encoding.canvas",
+                "viewState": {
+                  "x": 100.15337855772901,
+                  "y": 732.0857018177245,
+                  "zoom": -0.3333333333333334
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Encoding"
+            }
+          },
+          {
+            "id": "0053efde252cc410",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Murals vs Statues.md"
               },
+              "pinned": true,
               "icon": "excalidraw-icon",
               "title": "Murals vs Statues"
             }
           },
           {
-            "id": "55ce2b926d68885b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Void Lords/Lord Eus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lord Eus"
-            }
-          },
-          {
-            "id": "aafc8a91a6767ada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floors/B-003.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B-003"
-            }
-          },
-          {
-            "id": "28edc51090e0568e",
+            "id": "e97551e966c098b6",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Puzzles/Lord Mon Puzzles WIP.canvas",
                 "viewState": {
-                  "x": -345.7512058501982,
-                  "y": 2.4290472268652934,
-                  "zoom": 0.10407197897396492
+                  "x": 219.28874514276117,
+                  "y": 1048.6767735146873,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -105,96 +110,7 @@
             }
           },
           {
-            "id": "3c74359818e4f843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floors/B-045.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B-045"
-            }
-          },
-          {
-            "id": "274decbb641d7443",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Puzzles/Lord Mon Puzzles WIP.canvas",
-                "viewState": {
-                  "x": -370.3970622290223,
-                  "y": 1260.2886192875528,
-                  "zoom": 0.10407197897396492
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lord Mon Puzzles WIP"
-            }
-          },
-          {
-            "id": "ff35306eb2bb3639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floors/B-055.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B-055"
-            }
-          },
-          {
-            "id": "7467249037064bf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Well-Dressed Lady.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Well-Dressed Lady"
-            }
-          },
-          {
-            "id": "67441af506d06b59",
+            "id": "fefa0613e15e8dce",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -204,12 +120,12 @@
             }
           },
           {
-            "id": "f46089085a680579",
+            "id": "8655d4bcb458cb87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Frightened Lady.md",
+                "file": "Characters/Void Lords/Lord Mon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -224,11 +140,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Frightened Lady"
+              "title": "Lord Mon"
             }
           },
           {
-            "id": "be29550c27f99c72",
+            "id": "658c28e5257479c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -251,332 +167,8 @@
               "title": "Tree"
             }
           }
-        ]
-      },
-      {
-        "id": "0f3926d17e155848",
-        "type": "tabs",
-        "dimension": 56.07416879795396,
-        "children": [
-          {
-            "id": "76e4afc6fe5f9279",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Puzzles/Encoding.canvas",
-                "viewState": {
-                  "x": 100.15337855772901,
-                  "y": 732.0857018177245,
-                  "zoom": -0.3333333333333334
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Encoding"
-            }
-          },
-          {
-            "id": "7b741135bd503727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Lord Mon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lord Mon"
-            }
-          },
-          {
-            "id": "b62a7701590b93a8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Decodings.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Decodings"
-            }
-          },
-          {
-            "id": "0053efde252cc410",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Murals vs Statues.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Murals vs Statues"
-            }
-          },
-          {
-            "id": "a7f15dde2db9fbb1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Puzzles/Lord Eus Puzzle.canvas",
-                "viewState": {
-                  "x": 505.86046726105127,
-                  "y": 1275.4125503554446,
-                  "zoom": -1.1315867893835028
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lord Eus Puzzle"
-            }
-          },
-          {
-            "id": "122ace8dbda103c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsecrets/Monsecret 44.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Monsecret 44"
-            }
-          },
-          {
-            "id": "7cfd97593daa0872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/HUD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "HUD"
-            }
-          },
-          {
-            "id": "c10b78a801c38f0e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Murals vs Statues.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Murals vs Statues"
-            }
-          },
-          {
-            "id": "d5a891c5ce3388b8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Puzzles/Lord Eus Puzzle.canvas",
-                "viewState": {
-                  "x": 461.950456406274,
-                  "y": 2767.921676260393,
-                  "zoom": -0.6666666666666665
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lord Eus Puzzle"
-            }
-          },
-          {
-            "id": "e97551e966c098b6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "09316c3699cf3ec4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsecrets/Monsecret 86.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Monsecret 86"
-            }
-          },
-          {
-            "id": "0bd84a753de69322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsecrets/Monsecret 124.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Monsecret 124"
-            }
-          },
-          {
-            "id": "3094db17e5ae6b47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsecrets/Monsecret 196.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Monsecret 196"
-            }
-          },
-          {
-            "id": "0c4031e44cdc9219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secrets.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Secrets"
-            }
-          },
-          {
-            "id": "c22bc68c4bc10466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secrets.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Secrets"
-            }
-          },
-          {
-            "id": "a74b0de1d9f39494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floors/B-037.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B-037"
-            }
-          }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -608,10 +200,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fruit",
+                "query": "secret",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               },
@@ -633,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "3d6e01fa682c61b9",
@@ -649,13 +242,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Puzzles/6x6 Grid.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6x6 Grid"
+              "title": "Outline"
             }
           },
           {
@@ -726,50 +318,56 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3ae2dab0e87df8fd",
+  "active": "fefa0613e15e8dce",
   "lastOpenFiles": [
-    "Puzzles/6x6 Grid.canvas",
     "Floors/B-000.md",
-    "Floors/Attachments/Pasted image 20260614004145.png",
-    "Floors/Attachments/Pasted image 20260614004134.png",
-    "Puzzles/Lord Eus Puzzle.canvas",
-    "Characters/Well-Dressed Lady.md",
-    "Floors/B-055.md",
-    "Egg Clues/Egg Clue.md",
-    "Floors/B-056.md",
-    "Items/Void Talisman.md",
-    "Characters/Void Lords/Lord Eus.md",
-    "Statues/Snake Statue.md",
-    "Monsecrets/Monsecret 44.md",
-    "Items/Attachments/Pasted image 20260614002835.png",
-    "Floors/B-053a.md",
-    "Floors/B-053.md",
-    "Excalidraw/Murals vs Statues.md",
-    "Floors/Attachments/Pasted image 20260614002553.png",
-    "Floors/B-052.md",
-    "Puzzles/Picross Puzzles.canvas",
-    "Floors/B-051.md",
-    "Floors/B-050.md",
-    "Floors/B-049.md",
-    "Floors/B-048.md",
-    "Floors/B-047.md",
-    "Floors/B-032.md",
-    "Title Screen.md",
-    "Tiles/Chest.md",
-    "Meta/Meta Tiles/VOID Tiles.md",
-    "Tiles/Glass.md",
-    "Characters/Bat Boy.md",
-    "Meta/Void Fruit.md",
-    "Meta/Attachments/Pasted image 20260613234331.png",
+    "Floors/B-163.md",
+    "Floors/B-144l.md",
+    "Floors/B-144m.md",
+    "Floors/B-144n.md",
+    "Floors/B-144o.md",
+    "Characters/Mr. Tile.md",
+    "Monsecrets/Monsecret 196.md",
+    "Enemies/Mr. Self Defense.md",
+    "Floors/B-196.md",
+    "Characters/Void Lords/Lord Mon.md",
+    "Monsecrets/Monsecret 124.md",
+    "Characters/Void Lords/Attachments/Pasted image 20260617003136.png",
+    "Floors/B-195.md",
     "Puzzles/Lord Mon Puzzles WIP.canvas",
+    "Floors/B-194.md",
+    "Floors/B-193.md",
+    "Tree.md",
+    "Statues/Gargoyle Statue.md",
+    "Floors/B-193q.md",
+    "Floors/B-193p.md",
+    "Floors/B-193o.md",
+    "Floors/B-193n.md",
+    "Floors/B-193m.md",
+    "Floors/B-193l.md",
+    "Floors/B-193k.md",
+    "Floors/B-193j.md",
+    "Floors/B-193i.md",
+    "Puzzles/6x6 Grid.canvas",
+    "Puzzles/Picross Puzzles.canvas",
+    "Secrets",
+    "Floors/Attachments/Pasted image 20260616232045.png",
+    "Floors/Attachments/Pasted image 20260616231950.png",
+    "Characters/Void Lords/Attachments/Pasted image 20260616225054.png",
+    "Floors/Attachments/Pasted image 20260616222650.png",
+    "Floors/Attachments/Pasted image 20260616222401.png",
+    "Floors/Attachments/Pasted image 20260616222159.png",
+    "Floors/Attachments/Pasted image 20260616222054.png",
+    "Characters/Attachments/Pasted image 20260616221752.png",
+    "Attachments/Pasted image 20260616221642.png",
+    "Rules/Attachments",
+    "Rules",
+    "Scenes/Attachments",
+    "Scenes",
+    "Puzzles/Lord Eus Puzzle.canvas",
     "Monsecrets",
-    "Puzzles/Attachments/Pasted image 20260613224554.png",
-    "Floors/Attachments/Pasted image 20260613224541.png",
     "Puzzles/Tapping Stuff.canvas",
     "Puzzles/Tail's Tail.canvas",
-    "Excalidraw/Attachments/Pasted image 20260609215019.png",
-    "Items/Attachments/Pasted image 20260613214106.png",
-    "Characters/Attachments/Pasted image 20260613213320.png",
     "Puzzles/Encoding.canvas",
     "Puzzles/Meta Moves.canvas",
     "Puzzles/Exit Glow.canvas",
@@ -777,11 +375,6 @@
     "Templates",
     "Untitled.base",
     "2nd Journey",
-    "Meta/Meta Tiles/Attachments",
-    "Meta/Meta Tiles",
-    "Meta/Attachments",
-    "Meta",
-    "Tiles/Attachments/Attachments",
-    "Characters/Void Court"
+    "Meta/Meta Tiles/Attachments"
   ]
 }

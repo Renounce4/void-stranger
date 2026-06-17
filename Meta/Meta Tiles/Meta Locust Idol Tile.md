@@ -1,5 +1,5 @@
 ![[Pasted image 20260604215918.png]]
-Appears to be a literal [[Locusts Idol]] on a tile that I can pick up from my [[HUD]]. This acts as a normal tile.
+Appears to be a literal [[Locust Idol]] on a tile that I can pick up from my [[HUD]]. This acts as a normal tile.
 
 # System Logs
 

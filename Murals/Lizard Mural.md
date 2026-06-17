@@ -14,4 +14,4 @@ Bumping into this 7 times broke the wall down to reveal a computer screen
 > \[The mural crumbled away, revealing a small niche full of...\]
 > \[... What is this?\]
 
-#theory I have to do something with [[Covetous Mural]] which has digits lit up first
+#todo/mystery How do I turn this one? Maybe I have to do something with [[Covetous Mural]] which has digits lit up first

@@ -3,15 +3,27 @@
 		{"id":"100caa01a1e5d8e1","type":"file","file":"Strange Carvings/Carving 89a.md","x":80,"y":40,"width":680,"height":1360},
 		{"id":"f23c240ab5b11703","type":"file","file":"Egg Clues/Clue 105.md","x":-600,"y":1040,"width":400,"height":280},
 		{"id":"989ba3d1c4e08743","type":"file","file":"Egg Clues/Clue 89a.md","x":-600,"y":220,"width":400,"height":200,"color":"3"},
-		{"id":"d8f933a4bd048764","type":"file","file":"Characters/Lord Mon.md","x":-600,"y":-280,"width":400,"height":400,"color":"3"},
+		{"id":"d8f933a4bd048764","type":"file","file":"Characters/Void Lords/Lord Mon.md","x":-600,"y":-280,"width":400,"height":400,"color":"3"},
 		{"id":"1e98af13ddf93a15","type":"file","file":"Murals/Covetous Mural.md","x":80,"y":-560,"width":400,"height":400},
 		{"id":"5b2fca0699493d59","type":"file","file":"Floors/B-089a.md","x":920,"y":520,"width":400,"height":400},
-		{"id":"c76f04df5d67351e","type":"file","file":"Floors/B-089.md","x":920,"y":-560,"width":400,"height":400}
+		{"id":"c76f04df5d67351e","type":"file","file":"Floors/B-089.md","x":920,"y":-560,"width":400,"height":400},
+		{"id":"d26e00551e696aaf","type":"file","file":"Floors/B-000.md","x":-600,"y":520,"width":400,"height":400},
+		{"id":"72e7d5fdcf264eeb","x":-400,"y":1800,"width":400,"height":113,"type":"file","file":"Monsecrets/Monsecret 4.md"},
+		{"id":"7eef1ad9a8945d6d","x":80,"y":1778,"width":400,"height":192,"type":"file","file":"Monsecrets/Monsecret 44.md"},
+		{"id":"3114d76ba87c2a6d","x":560,"y":1778,"width":400,"height":163,"type":"file","file":"Monsecrets/Monsecret 86.md"},
+		{"id":"afa42dc268684075","x":-400,"y":2120,"width":400,"height":290,"type":"file","file":"Monsecrets/Monsecret 124.md"},
+		{"id":"4dd8d6968dbe4895","x":360,"y":2200,"width":400,"height":400,"type":"file","file":"Monsecrets/Monsecret 196.md"}
 	],
 	"edges":[
 		{"id":"35bef2b4a54c9523","fromNode":"5b2fca0699493d59","fromSide":"left","toNode":"100caa01a1e5d8e1","toSide":"right"},
 		{"id":"bb8743cb1ba2bc71","fromNode":"c76f04df5d67351e","fromSide":"bottom","toNode":"5b2fca0699493d59","toSide":"top"},
 		{"id":"c9711992004d15d5","fromNode":"1e98af13ddf93a15","fromSide":"right","toNode":"c76f04df5d67351e","toSide":"left"},
-		{"id":"16ff636480d869b5","fromNode":"f23c240ab5b11703","fromSide":"right","toNode":"100caa01a1e5d8e1","toSide":"left"}
+		{"id":"16ff636480d869b5","fromNode":"f23c240ab5b11703","fromSide":"right","toNode":"100caa01a1e5d8e1","toSide":"left"},
+		{"id":"df81a23b30183750","fromNode":"989ba3d1c4e08743","fromSide":"bottom","toNode":"d26e00551e696aaf","toSide":"top"},
+		{"id":"7b39298e77548868","fromNode":"100caa01a1e5d8e1","fromSide":"bottom","toNode":"72e7d5fdcf264eeb","toSide":"top"},
+		{"id":"dcb3f59c232b3017","fromNode":"100caa01a1e5d8e1","fromSide":"bottom","toNode":"7eef1ad9a8945d6d","toSide":"top"},
+		{"id":"6101bd82af7b30fa","fromNode":"100caa01a1e5d8e1","fromSide":"bottom","toNode":"3114d76ba87c2a6d","toSide":"top"},
+		{"id":"8df94aec64dfe799","fromNode":"100caa01a1e5d8e1","fromSide":"bottom","toNode":"afa42dc268684075","toSide":"top"},
+		{"id":"4aa0022f56534be3","fromNode":"100caa01a1e5d8e1","fromSide":"bottom","toNode":"4dd8d6968dbe4895","toSide":"top"}
 	]
 }

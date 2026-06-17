@@ -13,6 +13,7 @@ Confirming again will approve of the selection, activating the brand and state
 > ![[Pasted image 20260613210322.png]]
 > 
 
+Once I have activated a brand, I will start with the item and the game will appear as if I got it from the intended location.
 # Known Brands
 
 ![[Pasted image 20260604231832.png]]

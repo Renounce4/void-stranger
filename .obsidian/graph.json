@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:Floors ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -65,15 +65,15 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.5625,
-  "repelStrength": 10.4166666666667,
-  "linkStrength": 0.84375,
-  "linkDistance": 500,
-  "scale": 0.13873223932666104,
+  "centerStrength": 0.479166666666667,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.05034417736651901,
   "close": false
 }

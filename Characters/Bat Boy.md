@@ -1,5 +1,5 @@
 ![[Pasted image 20260604230600.png]]
-Talks to me if I die with zero [[Locusts Idol]]s remaining and truly fail.
+Talks to me if I die with zero [[Locust Idol]]s remaining and truly fail.
 > Hello.
 > Is this your first time here?
 
