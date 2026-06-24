@@ -663,8 +663,7 @@ Door blows open
 [[Lady Gray]]
 > Oh, nothing.
 > I must be hearing things.
-> (Was someone at the door just now...?)
-> ![[Pasted image 20260616221642.png]]
+> (Was someone at the door just now...?) [[Tom]]
 > 
 > So, should we give it another go?
 > Practice makes perfect after all.
@@ -678,6 +677,9 @@ Door blows open
 Then [[Lady Gray]] met with [[Johann]] at the gave site from earlier memory and told him it "has to end". He said he kept his side of the promise and is going to marry the [[Princess Lily]] and "set her free".
 
 [[Lady Gray]] talks about how [[Johann]]'s love for [[Princess Lily]] is fake and that she doesn't deserve this. When she threatens to tell her, [[Johann]] attacks and I abruptly wake from the dream.
+
+[[Princess Lily]]
+
 
 # [[B-224]]
 [[Lady Gray]] wakes up in front of the previously seen grave site, likely

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Floors ",
+  "search": "path:Floors/",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Floors  ",
+      "query": "path:Floors file:/B-\\d{3}[a-z]/",
       "color": {
         "a": 1,
-        "rgb": 61488
+        "rgb": 15761408
       }
     },
     {
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:Enemies  ",
+      "query": "line:(Tree)",
       "color": {
         "a": 1,
         "rgb": 16056320
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 11141375
       }
+    },
+    {
+      "query": "path:Floors file:/B-\\d{3}/",
+      "color": {
+        "a": 1,
+        "rgb": 65284
+      }
     }
   ],
   "collapse-display": false,
@@ -70,10 +77,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.479166666666667,
-  "repelStrength": 20,
+  "centerStrength": 0.1875,
+  "repelStrength": 6.25,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.05034417736651901,
+  "scale": 0.19450022690616878,
   "close": false
 }

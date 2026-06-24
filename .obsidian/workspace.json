@@ -6,7 +6,7 @@
       {
         "id": "f02f426666d1d4fa",
         "type": "tabs",
-        "dimension": 28.516624040920718,
+        "dimension": 59.11513859275054,
         "children": [
           {
             "id": "3ae2dab0e87df8fd",
@@ -33,6 +33,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Tree.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tree"
+            }
+          },
+          {
+            "id": "1ddc6d54ae337a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Tom.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tom"
+            }
+          },
+          {
+            "id": "ae63d7327e350051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Floors/B-000.md",
                 "mode": "source",
                 "source": false,
@@ -52,12 +100,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0f3926d17e155848",
         "type": "tabs",
-        "dimension": 71.48337595907928,
+        "dimension": 40.88486140724947,
         "children": [
           {
             "id": "76e4afc6fe5f9279",
@@ -110,37 +158,13 @@
             }
           },
           {
-            "id": "fefa0613e15e8dce",
+            "id": "8655d4bcb458cb87",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "8655d4bcb458cb87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Void Lords/Lord Mon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lord Mon"
             }
           },
           {
@@ -242,12 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Characters/Tom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tom"
             }
           },
           {
@@ -318,36 +343,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fefa0613e15e8dce",
+  "active": "1ddc6d54ae337a3c",
   "lastOpenFiles": [
-    "Floors/B-000.md",
-    "Floors/B-163.md",
-    "Floors/B-144l.md",
+    "Tree.md",
+    "Floors/B-169.md",
+    "Floors/B-132.md",
+    "Floors/B-131.md",
+    "Floors/B-113.md",
+    "Floors/B-168.md",
+    "Floors/B-112.md",
+    "Floors/B-190.md",
     "Floors/B-144m.md",
     "Floors/B-144n.md",
-    "Floors/B-144o.md",
-    "Characters/Mr. Tile.md",
-    "Monsecrets/Monsecret 196.md",
-    "Enemies/Mr. Self Defense.md",
+    "Floors/B-144p.md",
+    "Floors/B-000.md",
+    "Floors/B-188.md",
+    "Floors/B-028.md",
+    "Floors/B-224.md",
+    "Floors/B-140.md",
+    "Floors/B-084.md",
     "Floors/B-196.md",
-    "Characters/Void Lords/Lord Mon.md",
-    "Monsecrets/Monsecret 124.md",
+    "Floors/B-056.md",
+    "Floors/B-193g.md",
+    "Floors/B-192.md",
+    "Floors/B-191.md",
+    "Floors/B-129.md",
+    "Floors/B-203.md",
+    "Puzzles/28 Floors.canvas",
+    "Excalidraw/Drawing 2026-05-15 14.59.42.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-15 15.10.19.excalidraw.md",
     "Characters/Void Lords/Attachments/Pasted image 20260617003136.png",
-    "Floors/B-195.md",
     "Puzzles/Lord Mon Puzzles WIP.canvas",
-    "Floors/B-194.md",
-    "Floors/B-193.md",
-    "Tree.md",
-    "Statues/Gargoyle Statue.md",
-    "Floors/B-193q.md",
-    "Floors/B-193p.md",
-    "Floors/B-193o.md",
-    "Floors/B-193n.md",
-    "Floors/B-193m.md",
-    "Floors/B-193l.md",
-    "Floors/B-193k.md",
-    "Floors/B-193j.md",
-    "Floors/B-193i.md",
     "Puzzles/6x6 Grid.canvas",
     "Puzzles/Picross Puzzles.canvas",
     "Secrets",
@@ -371,7 +397,6 @@
     "Puzzles/Encoding.canvas",
     "Puzzles/Meta Moves.canvas",
     "Puzzles/Exit Glow.canvas",
-    "Puzzles/28 Floors.canvas",
     "Templates",
     "Untitled.base",
     "2nd Journey",
